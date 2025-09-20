@@ -1,4 +1,4 @@
-<img src="Data/RubyI.jpg"  width="750" height="350" />
+<img src="Data/RubyI.jpg" />
 <h1 align="center" >Ruby</h1>
 
 <p>The steps to run it are as follows:
